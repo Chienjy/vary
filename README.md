@@ -1,4 +1,4 @@
-# <img src="assets/logo.jpg" style="width: 1.2%" align=center> Vary
+# <img src="assets/logo.jpg" style="width: 100px" align=center> Vary
 
 <h3><a href="">Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models</a></h3>
 
