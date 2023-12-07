@@ -28,7 +28,6 @@ Our model and weights are licensed for both researchers and commercial entities,
 See the [LICENSE](./LICENSE), as well as our accompanying [Acceptable Use Policy](./USE_POLICY.md).
 
 ## Citation
-
 If you find our work useful in your research, please consider citing Vary:
 ```tex
 @article{dong2023dreamllm,
