@@ -1,4 +1,4 @@
-# <img src="assets/logo.jpg" style="width: 4.2%" align=center> Vary
+# <img src="assets/logo.jpg" style="width: 1.2%" align=center> Vary
 
 <h3><a href="">Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models</a></h3>
 
@@ -14,7 +14,7 @@ Vary is an efficient and effective method to scale up the Vision vocabulary of L
                     vision vocabulary by merging the new one with the original one (CLIP), enabling the LVLMs can quickly 
                     garner new features. 
 
-![](assets/vary_2.pdf)
+![](assets/vary.png)
 
 Code, model weights, and demo will be released soon.
 
