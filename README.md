@@ -32,8 +32,8 @@ See the [LICENSE](./LICENSE), as well as our accompanying [Acceptable Use Policy
 If you find our work useful in your research, please consider citing Vary:
 ```tex
 @article{dong2023dreamllm,
-  author = {Dong, Runpei and Han, Chunrui and Peng, Yuang and Qi, Zekun and Ge, Zheng and Yang, Jinrong and Zhao, Liang and Sun, Jianjian and Zhou, Hongyu and Wei, Haoran and Kong, Xiangwen and Zhang, Xiangyu and Ma, Kaisheng and Yi, Li},
-  title = {DreamLLM: Synergistic Multimodal Comprehension and Creation},
+  author = {Haoran, Wei and Lingyu, Kong and Jinyue, Chen and Liang, Zhao and Zheng, Ge and Jinrong, Yang and Jianjian, Sun and Chunrui, Han and Xiangyu, Zhang},
+  title = {Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models},
   journal = {arXiv preprint arXiv:2309.11499},
   year = {2023},
 }
